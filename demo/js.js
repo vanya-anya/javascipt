@@ -1,1 +1,2 @@
-alert("this is new");
+
+document.getElementById("q").innerHTML="hello world";
